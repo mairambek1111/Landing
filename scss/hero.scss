@@ -1,0 +1,11 @@
+.hero {
+    background: url(../images/Box.png) center / cover;
+    height: 720px;
+    .header {
+        .nav {
+            &-link {
+                color: red;
+            }
+        }
+    }
+}
